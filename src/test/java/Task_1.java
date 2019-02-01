@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-public class Task1 {
+public class Task_1 {
     private WebDriver driver;
     private String baseUrl;
     //SimpleDateFormat today = new SimpleDateFormat("dd.MM.yyyy");
